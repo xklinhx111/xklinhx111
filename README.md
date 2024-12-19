@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xklinhx
-- 👀 I’m interested in learning and looking for MENTORS
+- 👀 I’m interested in learning and looking for buddies
 - 🌱 I’m currently learning Python, Data, Tech
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ... @ xklinhx
